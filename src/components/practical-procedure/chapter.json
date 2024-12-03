@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_practical_procedure_chapters",
+  "info": {
+    "displayName": "chapter"
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string"
+    },
+    "langId": {
+      "type": "string"
+    },
+    "next_id": {
+      "type": "string"
+    },
+    "cards": {
+      "displayName": "cards",
+      "type": "component",
+      "repeatable": true,
+      "component": "practical-procedure.cards"
+    }
+  }
+}

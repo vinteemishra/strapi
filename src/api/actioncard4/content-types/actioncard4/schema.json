@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "actioncard4s",
+  "info": {
+    "singularName": "actioncard4",
+    "pluralName": "actioncard4s",
+    "displayName": "actioncard4"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "actioncard4": {
+      "type": "component",
+      "repeatable": true,
+      "component": "chaptter.chaptter"
+    }
+  }
+}

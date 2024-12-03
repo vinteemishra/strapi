@@ -4,9 +4,11 @@
   "private": true,
   "description": "A Strapi application",
   "scripts": {
+    "develop": "strapi develop",
+    "export": "wait-on http://localhost:1337 && node scripts/exportContent.js",
+    "develop-with-export": "concurrently \"npm run develop\" \"npm run export\"",
     "build": "strapi build",
     "deploy": "strapi deploy",
-    "develop": "strapi develop",
     "start": "strapi start",
     "strapi": "strapi"
   },
@@ -14,17 +16,23 @@
     "@strapi/plugin-cloud": "5.1.0",
     "@strapi/plugin-users-permissions": "5.1.0",
     "@strapi/strapi": "5.1.0",
+    "archiver": "^7.0.1",
+    "axios": "^0.21.4",
     "better-sqlite3": "11.3.0",
+    "i18next": "^23.16.4",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.0.0",
+    "strapi-plugin-import-export-content": "^0.4.2",
     "styled-components": "^6.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "typescript": "^5"
+    "concurrently": "^9.0.1",
+    "typescript": "^5",
+    "wait-on": "^8.0.1"
   },
   "engines": {
     "node": ">=18.0.0 <=22.x.x",

@@ -1,0 +1,55 @@
+[
+    {
+        
+        
+        "questions": [
+            {
+                "answers": [
+                    {
+                        "correct": true,
+                        "value": {
+                            "content": "10 cm"
+                        }
+                    },
+                    {
+                        "correct": true,
+                        "value": {
+                            "content": "20 cm"
+                        }
+                    },
+                    {
+                        "correct": true,
+                        "value": {
+                            "content": "30 cm"
+                        }
+                    },
+                    {
+                        "correct": false,
+                        "value": {
+                            "content": "40 cm"
+                        }
+                    }
+                ],
+                "question": {
+                    "content": "hvor lang er en spoleorm?"
+                },
+                "description": {
+                    "content": "Ja. Det er rigtigt. En spoleorm kan blive 10-30 cm lang. Og den er klam."
+                },
+                "quizzType": "severalCorrect",
+                
+                "showToggle": false,
+                
+                "key": "hvor-lang-er-en-spoleorm_1495436784552"
+            }
+        ],
+        "title": "test",
+        "description": "dfssf",
+        "level": "1",
+        
+        "LastUpdated": null,
+        
+        
+        "id": "dbe2380f-c4fc-3061-e9d0-d77ee184accb"
+    }
+]

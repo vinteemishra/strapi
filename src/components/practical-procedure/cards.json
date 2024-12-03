@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_practical_procedure_cards",
+  "info": {
+    "displayName": "cards"
+  },
+  "options": {},
+  "attributes": {
+    "id1": {
+      "type": "string"
+    },
+    "content": {
+      "type": "json"
+    },
+    "type": {
+      "type": "string"
+    },
+    "adapted": {
+      "type": "json"
+    },
+    "translated": {
+      "type": "json"
+    }
+  }
+}

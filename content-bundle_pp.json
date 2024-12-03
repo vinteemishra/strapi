@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "id": 6,
+      "documentId": "xmzdoopc55wzapotymjwiqnc",
+      "key": "practical_procedure_2",
+      "langId": "dc40648b-0a77-446b-b11b-e0aa17aed697",
+      "description": null,
+      "createdAt": "2024-11-05T07:06:32.780Z",
+      "updatedAt": "2024-11-05T07:06:38.082Z",
+      "publishedAt": "2024-11-05T07:06:38.118Z",
+      "locale": "so-ET",
+      "chapter": [
+        {
+          "id": 16,
+          "key": "usage_1487245873343",
+          "langId": "dc40648b-0a77-446b-b11b-e0aa17aed697",
+          "next_id": null,
+          "cards": [
+            {
+              "id": 24,
+              "id1": "1",
+              "content": {
+                "entityMap": {},
+                "blocks": [
+                  {
+                    "key": "819ec",
+                    "text": "Using alcohol-based handrub is indicated when hands are visibly clean.",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                  }
+                ]
+              },
+              "type": "paragraph",
+              "adapted": {
+                "entityMap": {},
+                "blocks": [
+                  {
+                    "key": "819ec",
+                    "text": "Using alcohol-based handrub is indicated when hands are visibly clean.",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                  }
+                ]
+              },
+              "translated": {
+                "entityMap": {},
+                "blocks": [
+                  {
+                    "key": "819ec",
+                    "text": "Isticmaalka alcohol in gacmaha lagu nadiifiyo ama lagu xasho waxay taasi cadaynaysaa marka ay gacmaha u muuqdaan inay nadiif yihiin.",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "inlineStyleRanges": [],
+                    "entityRanges": [],
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 1
+    }
+  }
+}

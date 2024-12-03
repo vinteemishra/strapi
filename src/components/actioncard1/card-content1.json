@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_actioncard1_card_content1s",
+  "info": {
+    "displayName": "cardContent1"
+  },
+  "options": {},
+  "attributes": {
+    "actioncard1id": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    },
+    "type": {
+      "type": "string"
+    },
+    "adapted": {
+      "type": "text"
+    },
+    "translated": {
+      "type": "text"
+    }
+  }
+}

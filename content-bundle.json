@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "id": 3,
+      "documentId": "jmt1052z5vh3ipmph70b607l",
+      "key": "basic-emergency-obstetric-neonatal-care_1724993704610",
+      "Description": "Basic Emergency Obstetric & Neonatal Care",
+      "table": "module-categories",
+      "createdAt": "2024-10-19T16:39:48.320Z",
+      "updatedAt": "2024-10-19T16:48:40.974Z",
+      "publishedAt": "2024-10-19T16:48:41.005Z",
+      "icon": [
+        {
+          "id": 1,
+          "documentId": "r1t6h1lu4f13nrjodhmiljzy",
+          "name": "emergency_referral.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 128,
+          "height": 128,
+          "formats": null,
+          "hash": "emergency_referral_018a09994b",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 2.27,
+          "url": "/uploads/emergency_referral_018a09994b.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "createdAt": "2024-10-19T16:38:48.271Z",
+          "updatedAt": "2024-10-19T16:38:48.271Z",
+          "publishedAt": "2024-10-19T16:38:48.272Z"
+        }
+      ],
+      "module": [
+        {
+          "id": 4,
+          "documentId": "j6w5miwzwoshbs7fyq2ln66k",
+          "moduleName": "hypertension_1487677992452",
+          "moduleId": "1487677992452",
+          "createdAt": "2024-10-19T16:35:40.466Z",
+          "updatedAt": "2024-10-19T16:47:51.318Z",
+          "publishedAt": "2024-10-19T16:47:51.340Z"
+        },
+        {
+          "id": 5,
+          "documentId": "t2eg03qvgkfjmhyx5q3pd2xc",
+          "moduleName": "post-partum-hemorrhage_1487678905876",
+          "moduleId": "1487678905876",
+          "createdAt": "2024-10-19T16:34:40.427Z",
+          "updatedAt": "2024-10-19T16:48:02.067Z",
+          "publishedAt": "2024-10-19T16:48:02.081Z"
+        },
+        {
+          "id": 6,
+          "documentId": "wb1bk8ab7y6uly69rk4yebdr",
+          "moduleName": "prolonged-labour_1718860333031",
+          "moduleId": "1718860333031",
+          "createdAt": "2024-10-19T16:36:18.390Z",
+          "updatedAt": "2024-10-19T16:48:11.467Z",
+          "publishedAt": "2024-10-19T16:48:11.484Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "documentId": "iwsqg1ab0b9wi9vzmmrtmq3c",
+      "key": "comprehensive-abortion-care_1724993966111",
+      "Description": "Comprehensive Abortion Care",
+      "table": null,
+      "createdAt": "2024-10-19T16:41:55.912Z",
+      "updatedAt": "2024-10-19T16:48:50.559Z",
+      "publishedAt": "2024-10-19T16:48:50.580Z",
+      "icon": [
+        {
+          "id": 2,
+          "documentId": "ty1bqsli1ra462erysszaa9q",
+          "name": "intrav.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 128,
+          "height": 128,
+          "formats": null,
+          "hash": "intrav_6d9d005fa1",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 2.35,
+          "url": "/uploads/intrav_6d9d005fa1.png",
+          "previewUrl": null,
+          "provider": "local",
+          "provider_metadata": null,
+          "createdAt": "2024-10-19T16:41:22.846Z",
+          "updatedAt": "2024-10-19T16:41:22.846Z",
+          "publishedAt": "2024-10-19T16:41:22.847Z"
+        }
+      ],
+      "module": [
+        {
+          "id": 4,
+          "documentId": "j6w5miwzwoshbs7fyq2ln66k",
+          "moduleName": "hypertension_1487677992452",
+          "moduleId": "1487677992452",
+          "createdAt": "2024-10-19T16:35:40.466Z",
+          "updatedAt": "2024-10-19T16:47:51.318Z",
+          "publishedAt": "2024-10-19T16:47:51.340Z"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "documentId": "mnlx4tk1ozfffi0vcnnku6nr",
+      "key": "pregnancy-childbirth-postpartum-care_1724994768007",
+      "Description": "Pregnancy, Childbirth & Postpartum care",
+      "table": null,
+      "createdAt": "2024-10-19T17:54:46.151Z",
+      "updatedAt": "2024-10-19T17:55:57.018Z",
+      "publishedAt": "2024-10-19T17:55:57.033Z",
+      "icon": null,
+      "module": [
+        {
+          "id": 5,
+          "documentId": "t2eg03qvgkfjmhyx5q3pd2xc",
+          "moduleName": "post-partum-hemorrhage_1487678905876",
+          "moduleId": "1487678905876",
+          "createdAt": "2024-10-19T16:34:40.427Z",
+          "updatedAt": "2024-10-19T16:48:02.067Z",
+          "publishedAt": "2024-10-19T16:48:02.081Z"
+        },
+        {
+          "id": 6,
+          "documentId": "wb1bk8ab7y6uly69rk4yebdr",
+          "moduleName": "prolonged-labour_1718860333031",
+          "moduleId": "1718860333031",
+          "createdAt": "2024-10-19T16:36:18.390Z",
+          "updatedAt": "2024-10-19T16:48:11.467Z",
+          "publishedAt": "2024-10-19T16:48:11.484Z"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 3
+    }
+  }
+}

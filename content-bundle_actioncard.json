@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "documentId": "ciobcjoje7yuc7vdas2cp7bx",
+      "createdAt": "2024-10-24T09:08:21.135Z",
+      "updatedAt": "2024-10-24T09:08:25.600Z",
+      "publishedAt": "2024-10-24T09:08:25.626Z",
+      "actioncard4": [
+        {
+          "id": 2,
+          "key": "78faf",
+          "langId": null,
+          "content": [
+            {
+              "id": 3,
+              "cintentId": "1",
+              "content": "Drug dose of common drugs for newborns below one month of age",
+              "type": "unstyled",
+              "adapted": "Drug dose of common drugs for newborns below one month of age.",
+              "translated": "Drug dose of common drugs for newborns below one month of age."
+            },
+            {
+              "id": 4,
+              "cintentId": "2",
+              "content": "Respiratory rate slower than 30 or faster than 60 per minute.",
+              "type": "unstyled",
+              "adapted": "Respiratory rate slower than 30 or faster than 60 per minute.",
+              "translated": "Respiratory rate slower than 30 or faster than 60 per minute."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "documentId": "vhv8o4fb1lak8es3k517hyqx",
+      "createdAt": "2024-10-24T09:13:36.833Z",
+      "updatedAt": "2024-10-24T09:13:39.903Z",
+      "publishedAt": "2024-10-24T09:13:39.912Z",
+      "actioncard4": [
+        {
+          "id": 4,
+          "key": "78fafd",
+          "langId": "6789",
+          "content": [
+            {
+              "id": 6,
+              "cintentId": "3",
+              "content": "safe delivery",
+              "type": "abc",
+              "adapted": "safe delivery",
+              "translated": "safe delivery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "documentId": "hdxij8nh3lgzcvt7713t1zhg",
+      "createdAt": "2024-10-24T10:41:32.176Z",
+      "updatedAt": "2024-10-24T10:41:36.671Z",
+      "publishedAt": "2024-10-24T10:41:36.677Z",
+      "actioncard4": [
+        {
+          "id": 7,
+          "key": "_1486814147474\"",
+          "langId": "ee722f96-fcf6-4bcf-9f4e-c5fd285eaac3",
+          "content": [
+            {
+              "id": 11,
+              "cintentId": "123",
+              "content": "Severe Preeclampsia is one of the following:",
+              "type": "unstyled",
+              "adapted": "Severe Preeclampsia is one of the following:",
+              "translated": "Severe Preeclampsia is one of the following:"
+            },
+            {
+              "id": 12,
+              "cintentId": "123",
+              "content": "Severely elevated blood pressure (160 mmHg or higher systolic OR 110 mmHg or higher diastolic), OR",
+              "type": "unstyled",
+              "adapted": "Severely elevated blood pressure (160 mmHg or higher systolic OR 110 mmHg or higher diastolic), OR",
+              "translated": "Severely elevated blood pressure (160 mmHg or higher systolic OR 110 mmHg or higher diastolic), OR"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "key": "_1486815218676",
+          "langId": "ee722f96-fcf6-4bcf-9f4e-c5fd285eaac3",
+          "content": [
+            {
+              "id": 13,
+              "cintentId": "1234",
+              "content": "Call for help!",
+              "type": "unstyled",
+              "adapted": "This is a BEmONC Signal Function as stated by the United Nations. However, you still have to act according to government law in your country and should only perform procedures that you have been authorized for.",
+              "translated": "This is a BEmONC Signal Function as stated by the United Nations. However, you still have to act according to government law in your country and should only perform procedures that you have been authorized for."
+            },
+            {
+              "id": 14,
+              "cintentId": "1234",
+              "content": "Check Airway and Breathing.",
+              "type": "unstyled",
+              "adapted": "Check Airway and Breathing.",
+              "translated": "Check Airway and Breathing."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 3
+    }
+  }
+}

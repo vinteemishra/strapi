@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_chaptter_chaptters",
+  "info": {
+    "displayName": "Chaptter"
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string"
+    },
+    "langId": {
+      "type": "string"
+    },
+    "content": {
+      "type": "component",
+      "repeatable": true,
+      "component": "content.content"
+    }
+  }
+}

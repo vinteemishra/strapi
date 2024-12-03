@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_actioncard1_chapter1s",
+  "info": {
+    "displayName": "chapter1"
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string"
+    },
+    "langid1": {
+      "type": "string"
+    },
+    "card1": {
+      "displayName": "card1",
+      "type": "component",
+      "repeatable": true,
+      "component": "cardcontent1.card1"
+    }
+  }
+}

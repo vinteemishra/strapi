@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "actioncard3s",
+  "info": {
+    "singularName": "actioncard3",
+    "pluralName": "actioncard3s",
+    "displayName": "actioncard3"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ch": {
+      "type": "component",
+      "repeatable": true,
+      "component": "chapter.chapt"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "actioncard2s",
+  "info": {
+    "singularName": "actioncard2",
+    "pluralName": "actioncard2s",
+    "displayName": "actioncard2"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "action1": {
+      "type": "component",
+      "repeatable": true,
+      "component": "chapter.chapt"
+    }
+  }
+}

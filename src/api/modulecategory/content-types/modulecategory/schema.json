@@ -1,0 +1,66 @@
+{
+  "kind": "collectionType",
+  "collectionName": "modulecategories",
+  "info": {
+    "singularName": "modulecategory",
+    "pluralName": "modulecategories",
+    "displayName": "modulecategory",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "key": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "Description": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "icon": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "table": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "module": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::module.module",
+      "inversedBy": "modulecategories"
+    }
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": [
+    {
+      "id": 5,
+      "documentId": "rpuewsk160r43mcalh5uhji9",
+      "Title": "hand-hygiene-wash-and-alcohol_1497356912190",
+      "Description": "hand-hygiene-wash-and-alcohol",
+      "Level": 1,
+      "createdAt": "2024-10-21T11:45:26.783Z",
+      "updatedAt": "2024-10-23T09:46:43.754Z",
+      "publishedAt": "2024-10-23T09:46:43.797Z",
+      "module": "infection-prevention_1487676001934",
+      "Questions": [
+        {
+          "id": 5,
+          "QuestionContent": "What is hand hygiene?",
+          "Description": "Hand hygiene is defined as:\\n\\nUsing alcohol-based handrub.\\n\\nWashing hands with soap and running water.",
+          "QuizType": "severalCorrect",
+          "ShowToggle": null,
+          "key": "hand-hygiene-wash-and-alcohol_1497356912190",
+          "Image": [
+            {
+              "id": 4,
+              "documentId": "dn9whnkq0u5tiii688hv4ib5",
+              "name": "infection_prevention.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 640,
+              "height": 360,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_infection_prevention.png",
+                  "hash": "thumbnail_infection_prevention_c6090dae6c",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 245,
+                  "height": 138,
+                  "size": 20.68,
+                  "sizeInBytes": 20679,
+                  "url": "/uploads/thumbnail_infection_prevention_c6090dae6c.png"
+                },
+                "small": {
+                  "name": "small_infection_prevention.png",
+                  "hash": "small_infection_prevention_c6090dae6c",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 500,
+                  "height": 281,
+                  "size": 76.56,
+                  "sizeInBytes": 76558,
+                  "url": "/uploads/small_infection_prevention_c6090dae6c.png"
+                }
+              },
+              "hash": "infection_prevention_c6090dae6c",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 16.18,
+              "url": "/uploads/infection_prevention_c6090dae6c.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-21T11:52:50.607Z",
+              "updatedAt": "2024-10-23T09:39:27.866Z",
+              "publishedAt": "2024-10-21T11:52:50.608Z"
+            }
+          ],
+          "link": null,
+          "Ansers": [
+            {
+              "id": 19,
+              "Correct": false,
+              "Content": "Clean delivery room"
+            },
+            {
+              "id": 20,
+              "Correct": false,
+              "Content": "Clean toilets"
+            },
+            {
+              "id": 21,
+              "Correct": true,
+              "Content": "Washing hands with soap and running water"
+            },
+            {
+              "id": 22,
+              "Correct": true,
+              "Content": " Using alcohol-based handrub"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "documentId": "wi7l7xcnwxuvjx6sq2trxsjb",
+      "Title": "use-alcohol-based-handrub_1497357082394",
+      "Description": "use-alcohol-based-handrub",
+      "Level": 1,
+      "createdAt": "2024-10-21T11:54:29.913Z",
+      "updatedAt": "2024-10-23T09:54:09.105Z",
+      "publishedAt": "2024-10-23T09:54:09.142Z",
+      "module": "infection-prevention_1487676001934",
+      "Questions": [
+        {
+          "id": 6,
+          "QuestionContent": "When should you use alcohol-based handrub?",
+          "Description": "You should use alcohol-based handrub:\\n\\nBefore and after each procedure.\\n\\nWhen hands are visibly clean.",
+          "QuizType": "severalCorrect",
+          "ShowToggle": null,
+          "key": "when-should-you-use-alcohol-based-handrub_1497357227708",
+          "Image": [
+            {
+              "id": 4,
+              "documentId": "dn9whnkq0u5tiii688hv4ib5",
+              "name": "infection_prevention.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 640,
+              "height": 360,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_infection_prevention.png",
+                  "hash": "thumbnail_infection_prevention_c6090dae6c",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 245,
+                  "height": 138,
+                  "size": 20.68,
+                  "sizeInBytes": 20679,
+                  "url": "/uploads/thumbnail_infection_prevention_c6090dae6c.png"
+                },
+                "small": {
+                  "name": "small_infection_prevention.png",
+                  "hash": "small_infection_prevention_c6090dae6c",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 500,
+                  "height": 281,
+                  "size": 76.56,
+                  "sizeInBytes": 76558,
+                  "url": "/uploads/small_infection_prevention_c6090dae6c.png"
+                }
+              },
+              "hash": "infection_prevention_c6090dae6c",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 16.18,
+              "url": "/uploads/infection_prevention_c6090dae6c.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-21T11:52:50.607Z",
+              "updatedAt": "2024-10-23T09:39:27.866Z",
+              "publishedAt": "2024-10-21T11:52:50.608Z"
+            }
+          ],
+          "link": [
+            {
+              "id": 3,
+              "documentId": "b6obmz1dyu86gso955hamwp8",
+              "name": "infection-prevention_1487676001934_cleaning_decontamination.mp4",
+              "alternativeText": null,
+              "caption": null,
+              "width": null,
+              "height": null,
+              "formats": null,
+              "hash": "infection_prevention_1487676001934_cleaning_decontamination_47ba633684",
+              "ext": ".mp4",
+              "mime": "video/mp4",
+              "size": 687.97,
+              "url": "/uploads/infection_prevention_1487676001934_cleaning_decontamination_47ba633684.mp4",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-21T11:52:00.353Z",
+              "updatedAt": "2024-10-21T11:52:00.353Z",
+              "publishedAt": "2024-10-21T11:52:00.356Z"
+            }
+          ],
+          "Ansers": [
+            {
+              "id": 23,
+              "Correct": true,
+              "Content": "Before and after each procedure"
+            },
+            {
+              "id": 24,
+              "Correct": false,
+              "Content": "After touching body fluid"
+            },
+            {
+              "id": 25,
+              "Correct": true,
+              "Content": "When hands are visibly clean"
+            },
+            {
+              "id": 26,
+              "Correct": false,
+              "Content": "When hands are visibly dirty"
+            },
+            {
+              "id": 27,
+              "Correct": null,
+              "Content": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "documentId": "pguazk7p8ji70pcpe3km91gv",
+      "Title": "soap-for-handwashing_1497357310306",
+      "Description": "soap-for-handwashing",
+      "Level": 1,
+      "createdAt": "2024-10-23T10:06:35.580Z",
+      "updatedAt": "2024-10-23T10:07:13.510Z",
+      "publishedAt": "2024-10-23T10:07:13.527Z",
+      "module": "infection-prevention_1487676001934",
+      "Questions": [
+        {
+          "id": 8,
+          "QuestionContent": "Which soap is best to use?",
+          "Description": "The best soap to use is liquid soap from a dispenser",
+          "QuizType": "oneCorrect",
+          "ShowToggle": null,
+          "key": "which-soap-is-best-to-use_1497357424801",
+          "Image": [
+            {
+              "id": 5,
+              "documentId": "bkjpye5dfxrfna4k0mltlw4o",
+              "name": "intro.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 532,
+              "height": 300,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_intro.png",
+                  "hash": "thumbnail_intro_a43beb386b",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 245,
+                  "height": 138,
+                  "size": 26.71,
+                  "sizeInBytes": 26711,
+                  "url": "/uploads/thumbnail_intro_a43beb386b.png"
+                },
+                "small": {
+                  "name": "small_intro.png",
+                  "hash": "small_intro_a43beb386b",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 500,
+                  "height": 282,
+                  "size": 89.84,
+                  "sizeInBytes": 89843,
+                  "url": "/uploads/small_intro_a43beb386b.png"
+                }
+              },
+              "hash": "intro_a43beb386b",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 14.72,
+              "url": "/uploads/intro_a43beb386b.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-23T10:03:28.813Z",
+              "updatedAt": "2024-10-23T10:03:28.813Z",
+              "publishedAt": "2024-10-23T10:03:28.817Z"
+            }
+          ],
+          "link": null,
+          "Ansers": [
+            {
+              "id": 32,
+              "Correct": null,
+              "Content": "Plain soap in a wet container"
+            },
+            {
+              "id": 33,
+              "Correct": null,
+              "Content": "Plain soap placed in a rack that drains"
+            },
+            {
+              "id": 34,
+              "Correct": true,
+              "Content": "Liquid soap from a dispenser"
+            },
+            {
+              "id": 35,
+              "Correct": null,
+              "Content": " "
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 3
+    }
+  }
+}
